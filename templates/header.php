@@ -31,6 +31,7 @@
 
     <!-- CSS styles -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/darkstrap.css" rel="stylesheet">
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="css/bootswatch.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
@@ -39,7 +40,7 @@
     <!--[if lt IE 9]>
       <script src="js/html5shiv.min.js"></script>
     <![endif]-->
-  
+
   </head>
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
