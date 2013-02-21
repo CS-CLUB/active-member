@@ -30,8 +30,8 @@
     <meta name="author" content="Computer Science Club">
 
     <!-- CSS styles -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/darkstrap.css" rel="stylesheet">
+    <link class="bootstrap" href="css/bootstrap.min.css" rel="stylesheet">
+    <link class="darkstrap" href="" rel="stylesheet">
     <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
     <link href="css/bootswatch.css" rel="stylesheet">
     <link href="css/custom.css" rel="stylesheet">
